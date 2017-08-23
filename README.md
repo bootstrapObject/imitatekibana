@@ -1,2 +1,3 @@
-# imitatekibana
-仿kibana前端界面
+# 仿kibana前端界面
+
+![](images/img.gif)
